@@ -8,6 +8,7 @@ The things I have experimented with success:
 * EfficientNet pretrained in PyTorch
 * Albumentations for Image preprocessing and augmentation
 * jpeg4py for faster loading
-* One cycle learning rate
+* One cycle learning rate scheduler
+* Test time Augmentation (TTA)
 * integration with **MLFlow** for run's metrics tracking
 * how to split training and inference in two step (to comply with code competitions rules)
